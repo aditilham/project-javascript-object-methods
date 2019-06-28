@@ -1,0 +1,8 @@
+# THIS IS JAVASCRIPT OBJECT METHODS
+
+## RUNNING FEW METHODS OF OBJECT
+
+### INCLUDING
+- for .. in
+- JSON.stringify
+- JSON.parse
